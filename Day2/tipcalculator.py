@@ -12,5 +12,5 @@ bill = float(input("What was the total bill?\n"))
 tip = int(input("What percentage tip would you like to give? 10, 12, or 15\n"))
 numSplit = int(input("How many people are splitting the bill\n"))
 eachperson = (bill/numSplit)*(1+tip/100)
-print(f"Each person should pay: ${eachperson:.2f}")
+print(f"Each person should pay: GHC {eachperson:.2f}")
 

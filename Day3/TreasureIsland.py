@@ -35,12 +35,12 @@ if lr == "L":
         if door == "R":
             print("Didn't see that coming! You got burned by fire. GAME OVER!!")
         elif door =="B":
-            print("Didn't see that coming! You got eaten by beasts. GAME OVER!!") 
+            print("Didn't see that coming! You got eaten by wild beasts. GAME OVER!!") 
         elif door == "Y":
             print("Congratulation!!! YOU WIN!")
         else:
             print("*sigh* Don't try to  be smart... GAME OVER!!!")
     else:
-        print("That was unexpected! You are attached by trout. GAME OVER!!")
+        print("That was unexpected! You are attacked by goblins. GAME OVER!!")
 else:
     print("Ooops! You fell into a hole. GAME OVER!!")
