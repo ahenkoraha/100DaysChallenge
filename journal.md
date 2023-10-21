@@ -12,3 +12,5 @@
 > **Day 5**: completed videos and challenge for Day 6. Very interesting using [Reeborg's world](https://reeborg.ca/reeborg.html) and getting though the maze.
 
 >**Musings**: When you're training beginners in python, do you just tell them this is *print* and this is how we use it or explain what a function is at the early stages and later dive deeper into user defined functions?
+
+> **Day 6**: Completed the hangman challenge. This was a guided challenge like the other but different since all section worked on the challenge and also  applied already learnt concepts. This is a great way for retaining knowledge. Most courses in the universities or short courses should adopt this. It makes it more interesting working on something enjoyable while apply knowledge acquired
